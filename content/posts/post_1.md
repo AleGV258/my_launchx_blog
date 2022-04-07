@@ -29,6 +29,7 @@ En la misión ___FrontEnd___:
 
 En la misión ___BackEnd___:
 - El uso de Go Hugo para desplegar una página. ⏫
+- Como hacer un Pull Request. 📫
 - Estoy seguro de que aprenderé, mucho más... 🥳
 
 Esto es un listado de lo que he visto nuevo desde que ingrese en LaunchX, por mi parte, encantado de todo lo que he aprendido, y con muchas ganas de aprender más.
