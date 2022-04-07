@@ -1,21 +1,24 @@
 ---
-title: 'About me'
+title: 'Sobre Mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre Mí"
 ---
 
-## Who am I
+## Who am I? / ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy de Querétaro, Qro. 🌎
+> Tengo 20 años. 🍰
+> Me apasiona la ciberseguridad. 🔐
+> Mi color favorito es el morado. 🟣
+> Me encantaría práctica deportes de alto riesgo, como: snowboarding, buceo, salto de paracaídas. 🏂
+> Actualmente, estoy en el 6to. semestre de la carrera de Ingeniería de Software. 💻
+> Mis lenguajes de programación favoritos son: Python, Java, JavaScript, C#. ⌨️
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+### Redes Sociales:
+- Puedes encontrarme en diferentes redes como: ___@AleGV258___
+- O si gustas contactarme, puedes realizarlo a través de mi correo: ___ale.gv258@gmail.com___
 
+🤪🤪🤪
